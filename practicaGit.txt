@@ -4,5 +4,14 @@
 # lo ubicamos, damos clic derecho y abrimos con vs code
 # creamos el archivo a trabajar, una vez hecho el código
 # iniciams el repositorio con el comando git init
-# lo adicionamos a staging(estado en memoria del archivo) con el comando git add
+# lo adicionamos a staging(estado en memoria del archivo) con el comando git add .
 # creamos el repositorio con git commit -m "mensaje de lo que se hizo"
+
+# COMANDOS DE git
+# git show = muestra los cambios hechos de los commit realizados
+# git diff numerodelcommit = mustra los cambios realizados de ese commit a la version nueva
+sin haber hecho el commit actual
+#  git diff numerodelcommit numerodelcommitAcomparar= mustra las diferecias realizadas
+entre los dos commit.
+# git status muestras los archivos modificados en esa carpeta donde esta el repositorio.
+
