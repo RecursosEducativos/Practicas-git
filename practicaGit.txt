@@ -18,3 +18,10 @@ entre los dos commit.
 # git log --stat = muestra los cambios en detalle de los commit
 # git checkout numerodelcommit = mustra la version de ese commit
 # git checkout master = me trae la ultima version realizada con commit
+# git push = comando para actualizar los cambios de mi repositorio local
+a mi repositorio remoto.
+# git fetch = actualiza mi repositorio local del repositorio remoto ya sea por que un
+integrante del equipo haya actualizado el código.
+# git merg = fusiona los cambios del repositorio remoto a local.
+# git pull = actualiza mi repositorio local a mi repositorio remoto de un solo paso.
+
