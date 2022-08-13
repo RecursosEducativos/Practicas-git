@@ -25,3 +25,9 @@ integrante del equipo haya actualizado el código.
 # git merg = fusiona los cambios del repositorio remoto a local.
 # git pull = actualiza mi repositorio local a mi repositorio remoto de un solo paso.
 
+######## SUBIR MI REPOSITORIO LOCAL A MI REPOSITORIO REMOTO #########
+
+# git remote add origin https://github.com/RecursosEducativos/Practicas-git.git
+# git branch -M main
+# git push -u origin main
+
