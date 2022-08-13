@@ -1,2 +1,8 @@
 #Esto es una practica de git
-# vamos a iniciar el repositorio con git init
+
+# creamos una carpeta en nuestro sistema donde va a estar nuestro proyacto
+# lo ubicamos, damos clic derecho y abrimos con vs code
+# creamos el archivo a trabajar, una vez hecho el código
+# iniciams el repositorio con el comando git init
+# lo adicionamos a staging(estado en memoria del archivo) con el comando git add
+# creamos el repositorio con git commit -m "mensaje de lo que se hizo"
