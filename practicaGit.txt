@@ -31,3 +31,5 @@ integrante del equipo haya actualizado el código.
 # git branch -M main
 # git push -u origin main
 
+# Aportando desde mi rama tutor 1"
+
