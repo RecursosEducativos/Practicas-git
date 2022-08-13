@@ -14,4 +14,7 @@ sin haber hecho el commit actual
 #  git diff numerodelcommit numerodelcommitAcomparar= mustra las diferecias realizadas
 entre los dos commit.
 # git status muestras los archivos modificados en esa carpeta donde esta el repositorio.
-
+# git log = muestra todos los commit ordenados del actual al primero realizado.
+# git log --stat = muestra los cambios en detalle de los commit
+# git checkout numerodelcommit = mustra la version de ese commit
+# git checkout master = me trae la ultima version realizada con commit
