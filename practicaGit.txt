@@ -33,3 +33,5 @@ integrante del equipo haya actualizado el código.
 
 # Aportando desde mi rama tutor 1"
 
+# Aporte de estilos archivo gthub.css
+
